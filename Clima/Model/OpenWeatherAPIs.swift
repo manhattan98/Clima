@@ -10,7 +10,7 @@ import Foundation
 
 struct OpenWeatherAPIs {
     
-    private static let apiKey = "756cf0fb428c9588cfa4478fa343d605"
+    private static let apiKey = ""
     
     
     private static let baseURL = "https://api.openweathermap.org/data/2.5/"
